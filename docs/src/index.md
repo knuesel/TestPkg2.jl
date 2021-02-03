@@ -5,6 +5,7 @@ CurrentModule = TestPkg2
 # TestPkg2
 
 A
+Test package.
 
 ```@index
 ```
