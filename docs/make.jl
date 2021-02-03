@@ -18,4 +18,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/knuesel/TestPkg2.jl",
+    push_preview=true,
 )
